@@ -12,3 +12,14 @@ if(possuiGraduacao) {
 }
 
 console.log(x);
+
+var rua  = 0;
+
+if(rua){
+  console.log(rua);
+} else {
+  console.log('nome da rua nao existe');
+
+}
+
+
