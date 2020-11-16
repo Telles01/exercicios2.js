@@ -22,4 +22,18 @@ if(rua){
 
 }
 
+//if (!naoPossuiGraduacao)//{//
+  //console.log(possuiGraduacao);
+ // console.log('nao possui graduacao');
+//}//
+
+var x = 'Gato';
+
+console.log(x === 'Gato')
+
+var z = 10;
+
+console.log(x !== 11);
+
+
 
